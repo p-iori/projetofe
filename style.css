@@ -8,6 +8,10 @@
   text-shadow: 0 0 6px rgb(138, 86, 123);
 }
 
+h1{
+    font-size: 70px;
+  }
+
 body {
   overflow: hidden;
   display: grid;
@@ -254,5 +258,5 @@ input:checked~label .note {
 @media only screen and (max-width: 800px) {
   h1{
     font-size: 70px;
-}
+  }
 }
