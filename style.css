@@ -250,3 +250,9 @@ input:checked~label .note {
   transform: translateY(-170px);
   transition-delay: 0.8s;
 }
+
+@media only screen and (max-width: 800px) {
+  h1{
+    font-size: 3em;
+}
+}
